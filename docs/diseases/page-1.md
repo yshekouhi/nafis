@@ -1,27 +1,3 @@
 # صفحه اول
 
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
-## test
+## توضیحات بیماری اول
